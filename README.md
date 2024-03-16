@@ -3,7 +3,7 @@
 Here I'll present my solution to SQL Murder Mystery by Northwestern University Knight Lab.
 Avaible in https://mystery.knightlab.com/
 
-The presentation of my solution to the problem was inspired by the gist of https://gist.github.com/bearloga/cfc8099223d1dace2604c8737dcbb4c3 @bearloga
+The presentation of my solution to the problem was inspired by the gist of https://gist.github.com/bearloga/cfc8099223d1dace2604c8737dcbb4c3 [@bearloga](https://github.com/bearloga)
 
 ## Prompt
 There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
